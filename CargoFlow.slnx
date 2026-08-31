@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CargoFlow.Api/CargoFlow.Api.csproj" />
+  <Project Path="CargoFlow.Application.Tests/CargoFlow.Application.Tests.csproj" />
+  <Project Path="CargoFlow.Application/CargoFlow.Application.csproj" />
+  <Project Path="CargoFlow.Domain/CargoFlow.Domain.csproj" />
+  <Project Path="CargoFlow.Infrastructure/CargoFlow.Infrastructure.csproj" />
+</Solution>

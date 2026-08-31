@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+*.db
+*.db-shm
+*.db-wal
+node_modules/
+dist/
+resumo.txt
